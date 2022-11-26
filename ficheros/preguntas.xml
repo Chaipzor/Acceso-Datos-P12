@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juego>
+  <pregunta>
+    <texto>Texto de la pregunta 1</texto>
+    <respuesta1>Respuesta 1</respuesta1>
+    <respuesta2>Respuesta 2</respuesta2>
+    <respuesta3>Respuesta 3</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Texto de la pregunta 2</texto>
+    <respuesta1>Respuesta 1</respuesta1>
+    <respuesta2>Respuesta 2</respuesta2>
+    <respuesta3>Respuesta 3</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Texto de la pregunta 3</texto>
+    <respuesta1>Respuesta 1</respuesta1>
+    <respuesta2>Respuesta 2</respuesta2>
+    <respuesta3>Respuesta 3</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Primera pregunta excel</texto>
+    <respuesta1>Primera respuesta excel</respuesta1>
+    <respuesta2>Segunda respuesta excel</respuesta2>
+    <respuesta3>Tercera respuesta excel</respuesta3>
+    <correcta>2</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Segunda pregunta excel</texto>
+    <respuesta1>Primera resp seg. Prg excel</respuesta1>
+    <respuesta2>seg resp seg prg excel</respuesta2>
+    <respuesta3>tercer resp seg prg excel</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Primera pregunta excel</texto>
+    <respuesta1>Primera respuesta excel</respuesta1>
+    <respuesta2>Segunda respuesta excel</respuesta2>
+    <respuesta3>Tercera respuesta excel</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Segunda pregunta excel</texto>
+    <respuesta1>Primera resp seg. Prg excel</respuesta1>
+    <respuesta2>seg resp seg prg excel</respuesta2>
+    <respuesta3>tercer resp seg prg excel</respuesta3>
+    <correcta>3</correcta>
+  </pregunta>
+</juego>
+

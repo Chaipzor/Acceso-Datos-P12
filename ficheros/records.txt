@@ -1,0 +1,7 @@
+Angel:S:L:5
+ppp:p:p:4
+qqqq:q:q:3
+xxx:x:x:3
+Clara:N:H:1
+aaa:s:a:1
+www:w:w:1
